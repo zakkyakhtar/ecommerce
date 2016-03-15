@@ -10,6 +10,9 @@
   "author": "Zakky",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.4"
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.7",
+    "morgan": "^1.7.0"
   }
 }
